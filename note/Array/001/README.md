@@ -1,4 +1,4 @@
-# <a href='<https://leetcode.com/problems/two-sum/>' style='color:blue; text-decoration:none;'>Two Sum</a>
+# [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## Description
 
