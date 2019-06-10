@@ -14,9 +14,9 @@
 
 ### Array
 
-| #                               | 题目                                                   | Difficulty                                 |
-| :------------------------------ | :----------------------------------------------------- | ------------------------------------------ |
-| [1](note/Array/001/README.md)   | [Two Sum](note/Array/001/README.md)                    | <span style='color: #76EE00;'>Easy</span>  |
-| [11](note/Arrary/011/README.md) | [Container With Most Water](note/Arrary/011/README.md) | <span style='color:#FFB90F;'>Medium</span> |
-|                                 |                                                        |                                            |
+| #                              | 题目                                                  | Difficulty                                 |
+| :----------------------------- | :---------------------------------------------------- | ------------------------------------------ |
+| [1](note/Array/001/README.md)  | [Two Sum](note/Array/001/README.md)                   | <span style='color: #76EE00;'>Easy</span>  |
+| [11](note/Array/011/README.md) | [Container With Most Water](note/Array/011/README.md) | <span style='color:#FFB90F;'>Medium</span> |
+|                                |                                                       |                                            |
 
