@@ -1,4 +1,4 @@
-package com.lhj1998.leetcode.Array._011;
+package com.lhj1998.leetcode.Array._0011;
 
 public class Solution {
 

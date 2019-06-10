@@ -20,7 +20,7 @@ return [0, 1].
 直接暴力枚举就好了，不是说找两个数的和为target吗，先确定一个数，然后遍历数组，找另外一个数就好了。这是最简单最直接也是最慢的一种办法
 
 ```java
-package com.lhj1998.leetcode.Array._001;
+package com.lhj1998.leetcode.Array._0001;
 
 public class Solution {
 
@@ -46,7 +46,7 @@ public class Solution {
 速度飙升啊，前一种方法是19ms，这个是2ms
 
 ```java
-package com.lhj1998.leetcode.Array._001;
+package com.lhj1998.leetcode.Array._0001;
 
 import java.util.HashMap;
 

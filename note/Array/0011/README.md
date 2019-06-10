@@ -26,7 +26,7 @@ Output: 49
 两根木棍比较的时候，总有一根会相对短一点（一样长也无所谓啦），那么就可以让相对短一点的那一根移动到下一个位置去，不就好了嘛
 
 ```java
-package com.lhj1998.leetcode.Array._002;
+package com.lhj1998.leetcode.Array._0011;
 
 public class Solution {
 
@@ -51,7 +51,7 @@ public class Solution {
 208ms，第一种方法是2ms，算法之美~
 
 ```java
-package com.lhj1998.leetcode.Array._002;
+package com.lhj1998.leetcode.Array._0011;
 
 public class Solution {
 
