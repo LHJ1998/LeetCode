@@ -14,11 +14,12 @@
 
 ### Array
 
-| #                               | 题目                                                   | Difficulty                                 |
-| :------------------------------ | :----------------------------------------------------- | ------------------------------------------ |
-| [1](note/Array/001/README.md)   | [Two Sum](note/Array/0001/README.md)                   | <span style='color: #76EE00;'>Easy</span>  |
-| [11](note/Array/011/README.md)  | [Container With Most Water](note/Array/0011/README.md) | <span style='color:#FFB90F;'>Medium</span> |
-| [15](note/Array/0015/README.md) | [3Sum](note/Array/0015/README.md)                      | <span style='color:#FFB90F;'>Medium</span> |
-| [16](note/Array/0016/README.md) | [3Sum Closest](note/Array/0016/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
-| [18](note/Array/0018/README.md) | [4Sum](note/Array/0018/README.md)                      | <span style='color:#FFB90F;'>Medium</span> |
+| #                               | 题目                                                         | Difficulty                                 |
+| :------------------------------ | :----------------------------------------------------------- | ------------------------------------------ |
+| [1](note/Array/001/README.md)   | [Two Sum](note/Array/0001/README.md)                         | <span style='color: #76EE00;'>Easy</span>  |
+| [11](note/Array/011/README.md)  | [Container With Most Water](note/Array/0011/README.md)       | <span style='color:#FFB90F;'>Medium</span> |
+| [15](note/Array/0015/README.md) | [3Sum](note/Array/0015/README.md)                            | <span style='color:#FFB90F;'>Medium</span> |
+| [16](note/Array/0016/README.md) | [3Sum Closest](note/Array/0016/README.md)                    | <span style='color:#FFB90F;'>Medium</span> |
+| [18](note/Array/0018/README.md) | [4Sum](note/Array/0018/README.md)                            | <span style='color:#FFB90F;'>Medium</span> |
+| [26](note/Array/0026/README.md) | [Remove Duplicates from Sorted Array](note/Array/0026/README.md) | <span style='color: #76EE00;'>Easy</span>  |
 
