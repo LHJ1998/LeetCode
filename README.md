@@ -24,4 +24,5 @@
 | [26](note/Array/0026/README.md) | [Remove Duplicates from Sorted Array](note/Array/0026/README.md) | <span style='color: #76EE00;'>Easy</span>  |
 | [27](note/Array/0027/README.md) | [Remove Element](note/Array/0027/README.md)                  | <span style='color: #76EE00;'>Easy</span>  |
 | [31](note/Array/0031/README.md) | [Next Permutation](note/Array/0031/README.md)                | <span style='color:#FFB90F;'>Medium</span> |
+| [33](note/Array/0033/README.md) | [Search in Rotated Sorted Array](note/Array/0033/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
 
