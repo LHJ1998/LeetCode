@@ -27,4 +27,5 @@
 | [33](note/Array/0033/README.md) | [Search in Rotated Sorted Array](note/Array/0033/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
 | [34](note/Array/0034/README.md) | [Find First and Last Position of Element in Sorted Array](note/Array/0034/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 | [35](note/Array/0035/README.md) | [Search Insert Position](note/Array/0035/README.md)          | <span style='color: #76EE00;'>Easy</span>  |
+| [39](note/Array/0039/README.md) | [Combination Sum](note/Array/0039/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 
