@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class _0040 {
+public class Solution {
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);    //整个数组按照从小到大的顺序排序

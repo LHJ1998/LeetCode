@@ -44,13 +44,13 @@ A solution set is:
 做法和 [Combination Sum](note/Array/0039/README.md) 是一样的，主要是处理上述的几个不一样的地方
 
 ```java
-package com.lhj1998.leetcode.Array;
+package com.lhj1998.leetcode.Array._0040;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class _0040 {
+public class Solution {
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);    //整个数组按照从小到大的顺序排序
