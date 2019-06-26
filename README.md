@@ -30,4 +30,5 @@
 | [39](note/Array/0039/README.md) | [Combination Sum](note/Array/0039/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 | [40](note/Array/0040/README.md) | [Combination Sum II](note/Array/0040/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
 | [41](note/Array/0041/README.md) | [First Missing Positive](note/Array/0041/README.md)          | <span style='color:#FF0000;'>Hard</span>   |
+| [42](note/Array/0042/README.md) | [Trapping Rain Water](note/Array/0042/README.md)             | <span style='color:#FF0000;'>Hard</span>   |
 
