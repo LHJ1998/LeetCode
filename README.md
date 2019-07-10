@@ -31,4 +31,8 @@
 | [40](note/Array/0040/README.md) | [Combination Sum II](note/Array/0040/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
 | [41](note/Array/0041/README.md) | [First Missing Positive](note/Array/0041/README.md)          | <span style='color:#FF0000;'>Hard</span>   |
 | [42](note/Array/0042/README.md) | [Trapping Rain Water](note/Array/0042/README.md)             | <span style='color:#FF0000;'>Hard</span>   |
+| 48                              | Rotate Image                                                 |                                            |
+| [53](note/Array/0053/README.md) | [Maximum Subarray](note/Array/0053/README.md)                | <span style='color: #76EE00;'>Easy</span>  |
+
+
 
