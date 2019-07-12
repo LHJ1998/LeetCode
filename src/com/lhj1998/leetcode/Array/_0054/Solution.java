@@ -1,4 +1,4 @@
-package com.lhj1998.leetcode.Array.__0054;
+package com.lhj1998.leetcode.Array._0054;
 
 import java.util.ArrayList;
 import java.util.List;

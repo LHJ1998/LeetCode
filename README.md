@@ -36,6 +36,7 @@
 | 48                              | Rotate Image                                                 |                                            |
 | [53](note/Array/0053/README.md) | [Maximum Subarray](note/Array/0053/README.md)                | <span style='color: #76EE00;'>Easy</span>  |
 | [54](note/Array/0054/README.md) | [Spiral Matrix](note/Array/0054/README.md)                   | <span style='color:#FFB90F;'>Medium</span> |
+| [55](note/Array/0055/README.md) | [Jump Game](note/Array/0055/README.md)                       | <span style='color:#FFB90F;'>Medium</span> |
 
 
 
