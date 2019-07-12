@@ -1,7 +1,3 @@
-
-
-
-
 # LeetCode - LHJ1998
 
 [![Travis](https://img.shields.io/badge/language-Java-green.svg)](https://developer.apple.com/.md)
@@ -41,6 +37,7 @@
 | [55](note/Array/0055/README.md) | [Jump Game](note/Array/0055/README.md)                       | <span style='color:#FFB90F;'>Medium</span> |
 | [56](note/Array/0056/README.md) | [Merge Intervals](note/Array/0056/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 | [59](note/Array/0059/README.md) | [Spiral Matrix II](note/Array/0059/README.md)                | <span style='color:#FFB90F;'>Medium</span> |
+| [62](note/Array/0062/README.md) | [Unique Paths](note/Array/0062/README.md)                    | <span style='color:#FFB90F;'>Medium</span> |
 
 
 
