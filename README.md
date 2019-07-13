@@ -42,4 +42,5 @@
 | [64](note/Array/0064/README.md) | [Minimum Path Sum](note/Array/0064/README.md)                | <span style='color:#FFB90F;'>Medium</span> |
 | [66](note/Array/0066/README.md) | [Plus One](note/Array/0066/README.md)                        | <span style='color: #76EE00;'>Easy</span>  |
 | [73](note/Array/0073/README.md) | [Set Matrix Zeroes](note/Array/0073/README.md)               | <span style='color:#FFB90F;'>Medium</span> |
+| [74](note/Array/0074/README.md) | [Search a 2D Matrix](note/Array/0074/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
 
