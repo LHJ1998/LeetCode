@@ -46,4 +46,5 @@
 | [75](note/Array/0075/README.md) | [Sort Colors](note/Array/0075/README.md)                     | <span style='color:#FFB90F;'>Medium</span> |
 | [78](note/Array/0078/README.md) | [Subsets](note/Array/0078/README.md)                         | <span style='color:#FFB90F;'>Medium</span> |
 | [79](note/Array/0079/README.md) | [Word Search](note/Array/0079/README.md)                     | <span style='color:#FFB90F;'>Medium</span> |
+| [80](note/Array/0080/README.md) | [Remove Duplicates from Sorted Array II](note/Array/0080/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 
