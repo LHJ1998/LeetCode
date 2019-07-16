@@ -54,4 +54,5 @@
 | [106](note/Array/010/README.md)  | [Construct Binary Tree from Inorder and Postorder Traversal](note/Array/0106/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 | [118](note/Array/0118/README.md) | [Pascal's Triangle](note/Array/0118/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
 | [119](note/Array/0119/README.md) | [Pascal's Triangle II](note/Array/0119/README.md)            | <span style='color: #76EE00;'>Easy</span>  |
+| [120](note/Array/0120/README.md) | [Triangle](note/Array/0120/README.md)                        | <span style='color:#FFB90F;'>Medium</span> |
 
