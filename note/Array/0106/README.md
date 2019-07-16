@@ -22,6 +22,8 @@ Return the following binary tree:
    15   7
 ```
 
+## 思路0
+
 这题目和 [Construct Binary Tree from Preorder and Inorder Traversal](note/Array/0105/README.md) 的区别就是前面的是给出先序遍历和中序遍历，这个给的是中序遍历和后序遍历，其实做法都是一样的，也是找中序遍历和后序遍历的规律就可以做出来了
 
 ```java

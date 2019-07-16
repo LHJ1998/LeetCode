@@ -51,5 +51,6 @@
 | [88](note/Array/0088/README.md)  | [Merge Sorted Array](note/Array/0088/README.md)              | <span style='color: #76EE00;'>Easy</span>  |
 | [90](note/Array/0090/README.md)  | [Subsets II](note/Array/0090/README.md)                      | <span style='color:#FFB90F;'>Medium</span> |
 | [105](note/Array/0105/README.md) | [Construct Binary Tree from Preorder and Inorder Traversal](note/Array/0105/README.md) | <span style='color:#FFB90F;'>Medium</span> |
-| [106](note/Array/0106/README.md) | [Construct Binary Tree from Inorder and Postorder Traversal](note/Array/0106/README.md) | <span style='color:#FFB90F;'>Medium</span> |
+| [106](note/Array/010/README.md)  | [Construct Binary Tree from Inorder and Postorder Traversal](note/Array/0106/README.md) | <span style='color:#FFB90F;'>Medium</span> |
+| [118](note/Array/0118/README.md) | [Pascal's Triangle](note/Array/0118/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
 
