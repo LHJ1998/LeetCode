@@ -56,4 +56,5 @@
 | [119](note/Array/0119/README.md) | [Pascal's Triangle II](note/Array/0119/README.md)            | <span style='color: #76EE00;'>Easy</span>  |
 | [120](note/Array/0120/README.md) | [Triangle](note/Array/0120/README.md)                        | <span style='color:#FFB90F;'>Medium</span> |
 | [121](note/Array/0121/README.md) | [Best Time to Buy and Sell Stock](note/Array/0121/README.md) | <span style='color: #76EE00;'>Easy</span>  |
+| [122](note/Array/0122/README.md) | [Best Time to Buy and Sell Stock II](note/Array/0122/README.md) | <span style='color: #76EE00;'>Easy</span>  |
 

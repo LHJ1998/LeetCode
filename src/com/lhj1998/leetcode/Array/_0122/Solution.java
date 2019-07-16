@@ -1,0 +1,13 @@
+package com.lhj1998.leetcode.Array._0122;
+
+public class Solution {
+
+    public int maxProfit(int[] prices) {
+        int min = 0;
+        for(int i = 1; i < prices.length; i++){
+            if(prices[i - 1] < prices[i]) min += prices[i] - prices[i - 1];
+        }
+        return min;
+    }
+
+}
