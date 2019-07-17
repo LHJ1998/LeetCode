@@ -14,5 +14,5 @@
 
 ### [Array](note/Array/README.md)
 
-### [Dynamic Programming](note/Array/Dynamic Programming)
+### [Dynamic Programming](note/Dynamic Programming/README.md)
 
