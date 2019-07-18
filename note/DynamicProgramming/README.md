@@ -7,4 +7,5 @@
 | [62](0062/README.md) | [Unique Paths](0062/README.md)                  | <span style='color:#FFB90F;'>Medium</span> |
 | [63](0063/README.md) | [Unique Paths II](0063/README.md)               | <span style='color:#FFB90F;'>Medium</span> |
 | [64](0064/README.md) | [Minimum Path Sum](0064/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
+| [70](0070/README.md) | [Climbing Stairs](0070/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
 
