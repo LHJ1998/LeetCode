@@ -20,4 +20,5 @@
 | [279](0279/README.md) | [Perfect Squares](0279/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 | [300](0300/README.md) | [Longest Increasing Subsequence](0300/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
 | [303](0303/README.md) | [Range Sum Query - Immutable](0303/README.md)     | <span style='color: #76EE00;'>Easy</span>  |
+| [304](0304/README.md) | [Range Sum Query 2D - Immutable](0304/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
 
