@@ -18,4 +18,5 @@
 | [221](0221/README.md) | [Maximal Square](0221/README.md)                  | <span style='color:#FFB90F;'>Medium</span> |
 | [264](0264/README.md) | [Ugly Number II](0264/README.md)                  | <span style='color:#FFB90F;'>Medium</span> |
 | [279](0279/README.md) | [Perfect Squares](0279/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
+| [300](0300/README.md) | [Longest Increasing Subsequence](0300/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
 
