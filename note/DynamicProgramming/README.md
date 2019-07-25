@@ -19,4 +19,5 @@
 | [264](0264/README.md) | [Ugly Number II](0264/README.md)                  | <span style='color:#FFB90F;'>Medium</span> |
 | [279](0279/README.md) | [Perfect Squares](0279/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 | [300](0300/README.md) | [Longest Increasing Subsequence](0300/README.md)  | <span style='color:#FFB90F;'>Medium</span> |
+| [303](0303/README.md) | [Range Sum Query - Immutable](0303/README.md)     | <span style='color: #76EE00;'>Easy</span>  |
 
