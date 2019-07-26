@@ -23,4 +23,5 @@
 | [304](0304/README.md) | [Range Sum Query 2D - Immutable](0304/README.md)             | <span style='color:#FFB90F;'>Medium</span> |
 | [309](0309/README.md) | [Best Time to Buy and Sell Stock with Cooldown](0309/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 | [322](0322/README.md) | [Coin Change](0322/README.md)                                | <span style='color:#FFB90F;'>Medium</span> |
+| [338](0338/README.md) | [Counting Bits](0338/README.md)                              | <span style='color:#FFB90F;'>Medium</span> |
 
