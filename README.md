@@ -16,3 +16,5 @@
 
 ### [Dynamic Programming](note/DynamicProgramming/README.md)
 
+### [Math](note/Math/README.md)
+
