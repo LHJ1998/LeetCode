@@ -25,4 +25,5 @@
 | [322](0322/README.md) | [Coin Change](0322/README.md)                                | <span style='color:#FFB90F;'>Medium</span> |
 | [338](0338/README.md) | [Counting Bits](0338/README.md)                              | <span style='color:#FFB90F;'>Medium</span> |
 | [343](0343/README.md) | [Integer Break](0343/README.md)                              | <span style='color:#FFB90F;'>Medium</span> |
+| [357](0357/README.md) | [Count Numbers with Unique Digits](0357/README.md)           | <span style='color:#FFB90F;'>Medium</span> |
 
