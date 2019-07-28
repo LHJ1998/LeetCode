@@ -1,0 +1,76 @@
+# [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+**Example 1:**
+
+```
+Input: 121
+Output: true
+```
+
+**Example 2:**
+
+```
+Input: -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+```
+
+**Example 3:**
+
+```
+Input: 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+```
+
+**Follow up:**
+
+Coud you solve it without converting the integer to a string?
+
+## 思路0
+
+这个题目很简单的啦，判断一个数是不是回文数，如果不转成字符串的话，可以把这个数倒转过来，再比较一下就好啦
+
+```java
+package com.lhj1998.leetcode.Math._0009;
+
+public class Solution {
+
+    public boolean isPalindrome(int x) {
+        if(x < 0) return false;
+        int temp = 0, n = x;
+        while(n != 0){
+            temp = temp * 10 + (n % 10);
+            n = n / 10;
+        }
+        return temp == x;
+    }
+    
+}
+
+```
+
+6ms还打败了100%的人，这题目是不是太水了
+
+## 思路1
+
+还有一种更简单的办法就是转成字符串然后再逆序一下，再equals一下就好了，so easy
+
+```java
+package com.lhj1998.leetcode.Math._0009;
+
+    public boolean isPalindrome(int x) {
+        if(x < 0) return false;
+        StringBuilder builder = new StringBuilder();
+        builder.append(x);
+        String temp = builder.reverse().toString();
+        return temp.equals(String.valueOf(x));
+    }
+
+}
+
+```
+
+这种办法就有点慢了，用了10ms
