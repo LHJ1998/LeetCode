@@ -1,17 +1,18 @@
 ### Math
 
-| #                    | 题目                                       | Difficulty                                 |
-| -------------------- | ------------------------------------------ | ------------------------------------------ |
-| [2](0002/README.md)  | [Add Two Numbers](0002/README.md)          | <span style='color:#FFB90F;'>Medium</span> |
-| [7](0007/README.md)  | [Reverse Integer](0007/README.md)          | <span style='color: #76EE00;'>Easy</span>  |
-| [8](0008/README.md)  | [String to Integer (atoi)](0008/README.md) | <span style='color:#FFB90F;'>Medium</span> |
-| [9](0009/README.md)  | [Palindrome Number](0009/README.md)        | <span style='color: #76EE00;'>Easy</span>  |
-| [12](0012/README.md) | [Integer to Roman](0012/README.md)         | <span style='color:#FFB90F;'>Medium</span> |
-| [13](0013/README.md) | [Roman to Integer](0013/README.md)         | <span style='color: #76EE00;'>Easy</span>  |
-| [29](0029/README.md) | [Divide Two Integers](0029/README.md)      | <span style='color:#FFB90F;'>Medium</span> |
-| [43](0043/README.md) | [Multiply Strings](0043/README.md)         | <span style='color:#FFB90F;'>Medium</span> |
-| [50](0050/README.md) | [Pow(x, n)](0050/README.md)                | <span style='color:#FFB90F;'>Medium</span> |
-| [60](0060/README.md) | [Permutation Sequence](0060/README.md)     | <span style='color:#FFB90F;'>Medium</span> |
-| [67](0067/README.md) | [Add Binary](0067/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
-| [69](0069/README.md) | [Sqrt(x)](0069/README.md)                  | <span style='color: #76EE00;'>Easy</span>  |
+| #                     | 题目                                            | Difficulty                                 |
+| --------------------- | ----------------------------------------------- | ------------------------------------------ |
+| [2](0002/README.md)   | [Add Two Numbers](0002/README.md)               | <span style='color:#FFB90F;'>Medium</span> |
+| [7](0007/README.md)   | [Reverse Integer](0007/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
+| [8](0008/README.md)   | [String to Integer (atoi)](0008/README.md)      | <span style='color:#FFB90F;'>Medium</span> |
+| [9](0009/README.md)   | [Palindrome Number](0009/README.md)             | <span style='color: #76EE00;'>Easy</span>  |
+| [12](0012/README.md)  | [Integer to Roman](0012/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
+| [13](0013/README.md)  | [Roman to Integer](0013/README.md)              | <span style='color: #76EE00;'>Easy</span>  |
+| [29](0029/README.md)  | [Divide Two Integers](0029/README.md)           | <span style='color:#FFB90F;'>Medium</span> |
+| [43](0043/README.md)  | [Multiply Strings](0043/README.md)              | <span style='color:#FFB90F;'>Medium</span> |
+| [50](0050/README.md)  | [Pow(x, n)](0050/README.md)                     | <span style='color:#FFB90F;'>Medium</span> |
+| [60](0060/README.md)  | [Permutation Sequence](0060/README.md)          | <span style='color:#FFB90F;'>Medium</span> |
+| [67](0067/README.md)  | [Add Binary](0067/README.md)                    | <span style='color: #76EE00;'>Easy</span>  |
+| [69](0069/README.md)  | [Sqrt(x)](0069/README.md)                       | <span style='color: #76EE00;'>Easy</span>  |
+| [166](0166/README.md) | [Fraction to Recurring Decimal](0166/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 
