@@ -9,4 +9,5 @@
 | [100](0100/README.md) | [Same Tree](0100/README.md)                         | <span style='color: #76EE00;'>Easy</span>  |
 | [101](0101/README.md) | [Symmetric Tree](0101/README.md)                    | <span style='color: #76EE00;'>Easy</span>  |
 | [102](0102/README.md) | [Binary Tree Level Order Traversal](0102/README.md) | <span style='color:#FFB90F;'>Medium</span> |
+| [104](0104/README.md) | [Maximum Depth of Binary Tree](0104/README.md)      | <span style='color: #76EE00;'>Easy</span>  |
 
