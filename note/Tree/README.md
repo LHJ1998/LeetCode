@@ -15,5 +15,5 @@
 | [106](0106/README.md) | [Construct Binary Tree from Inorder and Postorder Traversal](0106/README.md) | <span style='color:#FFB90F;'>Medium</span> |
 | [107](0107/README.md) | [Binary Tree Level Order Traversal II](0107/README.md)       | <span style='color: #76EE00;'>Easy</span>  |
 | [108](0108/README.md) | [Convert Sorted Array to Binary Search Tree](0108/README.md) | <span style='color: #76EE00;'>Easy</span>  |
-| [109](0109/README.md) | [Balanced Binary Tree](0109/README.md)                       | <span style='color: #76EE00;'>Easy</span>  |
+| [110](0110/README.md) | [Balanced Binary Tree](0110/README.md)                       | <span style='color: #76EE00;'>Easy</span>  |
 
