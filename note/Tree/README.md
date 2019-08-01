@@ -17,4 +17,5 @@
 | [108](0108/README.md) | [Convert Sorted Array to Binary Search Tree](0108/README.md) | <span style='color: #76EE00;'>Easy</span>  |
 | [110](0110/README.md) | [Balanced Binary Tree](0110/README.md)                       | <span style='color: #76EE00;'>Easy</span>  |
 | [111](0111/README.md) | [Minimum Depth of Binary Tree](0111/README.md)               | <span style='color: #76EE00;'>Easy</span>  |
+| [112](0112/README.md) | [Path Sum](0112/README.md)                                   | <span style='color: #76EE00;'>Easy</span>  |
 
