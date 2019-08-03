@@ -20,3 +20,4 @@
 
 ### [Tree](note/Tree/README.md)
 
+### [Greedy](note/Greedy/README.md)
