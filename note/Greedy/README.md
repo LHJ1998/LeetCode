@@ -8,4 +8,5 @@
 | [376](0376/README.md) | [Wiggle Subsequence](0376/README.md)                 | <span style='color:#FFB90F;'>Medium</span> |
 | [392](0392/README.md) | [Is Subsequence](0392/README.md)                     | <span style='color:#FFB90F;'>Medium</span> |
 | [402](0402/README.md) | [Remove K Digits](0402/README.md)                    | <span style='color:#FFB90F;'>Medium</span> |
+| [406](0406/README.md) | [Queue Reconstruction by Height](0406/README.md)     | <span style='color:#FFB90F;'>Medium</span> |
 
